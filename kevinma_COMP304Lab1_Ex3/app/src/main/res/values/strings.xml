@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kevinma_COMP304Lab1_Ex3</string>
+    <!--Activity Titles-->
+    <string name="vr_activity_title">VR Activity</string>
+    <string name="ai_activity_title">AI Activity</string>
+    <!--Button Text-->
+    <string name="vr_button_name">Launch VR Activity</string>
+    <string name="ai_button_name">Launch AI Activity</string>
+    <string name="vr_button_name2">Close VR Activity</string>
+    <string name="ai_button_name2">Close AI Activity</string>
+    <string name="rtn_main_btn_name">Return to Main Activity!</string>
+    <!--Toast Text-->
+    <string name="vr_launch_toast_msg">Launching VR Activity!</string>
+    <string name="ai_launch_toast_msg">Launching AI Activity!</string>
+    <string name="rtn_main_toast_msg">Returning to Main Activity!</string>
+</resources>

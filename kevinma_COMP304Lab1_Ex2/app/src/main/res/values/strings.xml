@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kevinma_COMP304Lab1_Ex2</string>
+    <string name="full_name">Kevin Ma</string>
+    <string name="program_name">Software Engineering Technology</string>
+    <string name="semester">6</string>
+    <string name="course_code">COMP 304</string>
+    <string name="course_name">Mobile Application Development</string>
+</resources>
